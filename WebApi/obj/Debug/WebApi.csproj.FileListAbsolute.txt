@@ -1,0 +1,110 @@
+E:\hyrin\Front End\WebApi\WebApi\bin\ApplicationInsights.config
+E:\hyrin\Front End\WebApi\WebApi\bin\WebApi.dll.config
+E:\hyrin\Front End\WebApi\WebApi\bin\WebApi.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\WebApi.pdb
+E:\hyrin\Front End\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\EntityFramework.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\WebGrease.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\EntityFramework.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Optimization.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+E:\hyrin\Front End\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\hyrin\Front End\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\hyrin\Front End\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\hyrin\Front End\WebApi\WebApi\obj\Debug\WebApi.pdb
+E:\hyrin\Front End\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Cors.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+E:\hyrin\Front End\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\ApplicationInsights.config
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\WebApi.dll.config
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\WebApi.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\WebApi.pdb
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Antlr3.Runtime.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\EntityFramework.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Newtonsoft.Json.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Cors.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Helpers.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Mvc.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Optimization.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Razor.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\WebGrease.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\EntityFramework.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Newtonsoft.Json.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Helpers.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Mvc.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Optimization.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.Razor.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\obj\Debug\WebApi.dll
+E:\hyrin\Angular 2 + Web Api\WebApi\WebApi\obj\Debug\WebApi.pdb
