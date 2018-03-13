@@ -26,6 +26,5 @@ namespace WebApi.Models
         }
     
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Library> Libraries { get; set; }
     }
 }
